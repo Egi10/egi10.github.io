@@ -34,6 +34,112 @@
     .w3-bar .w3-button {
         padding: 16px;
     }
+    
+    #myImg {
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    
+    #myImg:hover {
+        opacity: 0.7;
+    }
+    /* The Modal (background) */
+    
+    .modal {
+        display: none;
+        /* Hidden by default */
+        position: fixed;
+        /* Stay in place */
+        z-index: 1;
+        /* Sit on top */
+        padding-top: 100px;
+        /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%;
+        /* Full width */
+        height: 100%;
+        /* Full height */
+        overflow: auto;
+        /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.9);
+        /* Black w/ opacity */
+    }
+    /* Modal Content (image) */
+    
+    .modal-content {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 700px;
+    }
+    /* Caption of Modal Image */
+    
+    #caption {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 700px;
+        text-align: center;
+        color: #ccc;
+        padding: 10px 0;
+        height: 150px;
+    }
+    /* Add Animation */
+    
+    .modal-content,
+    #caption {
+        -webkit-animation-name: zoom;
+        -webkit-animation-duration: 0.6s;
+        animation-name: zoom;
+        animation-duration: 0.6s;
+    }
+    
+    @-webkit-keyframes zoom {
+        from {
+            -webkit-transform: scale(0)
+        }
+        to {
+            -webkit-transform: scale(1)
+        }
+    }
+    
+    @keyframes zoom {
+        from {
+            transform: scale(0)
+        }
+        to {
+            transform: scale(1)
+        }
+    }
+    /* The Close Button */
+    
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+    
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    /* 100% Image Width on Smaller Screens */
+    
+    @media only screen and (max-width: 700px) {
+        .modal-content {
+            width: 100%;
+        }
+    }
 </style>
 
 <body class="w3-light-grey w3-content" style="max-width:1600px">
@@ -84,6 +190,13 @@
             function w3_close() {
                 mySidebar.style.display = "none";
             }
+
+            function onClick(element) {
+                document.getElementById("img01").src = element.src;
+                document.getElementById("modal01").style.display = "block";
+                var captionText = document.getElementById("caption");
+                captionText.innerHTML = element.alt;
+            }
         </script>
 
         <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
@@ -130,6 +243,15 @@
             </div>
         </div>
 
+        <!-- Modal for full size images on click-->
+        <div id="modal01" class="modal" onclick="this.style.display='none'">
+            <span class="w3-button w3-large w3-black w3-display-topright" title="Close Modal Image"><i class="fa fa-remove"></i></span>
+            <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+                <img id="img01" class="modal-content">
+                <p id="caption"></p>
+            </div>
+        </div>
+
         <!-- Portofolio -->
         <div class="w3-container" style="padding:30px 16px" id="projects">
             <div class="w3-container w3-padding-32" id="projects">
@@ -139,7 +261,7 @@
             <!-- First Photo Grid-->
             <div class="w3-row-padding">
                 <div class="w3-third w3-container w3-margin-bottom">
-                    <img src="images/My_Yur.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/My_Yur.jpg" alt="My-Yur" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>My-Yur</b>
                             <br>PheDev Team</p>
@@ -154,7 +276,7 @@
                     </div>
                 </div>
                 <div class="w3-third w3-container w3-margin-bottom">
-                    <img src="images/METs.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/METs.jpg" alt="Mitigasi Evakuasi Tsunami (METs)" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>Mitigasi Evakuasi Tsunami (METs)</b>
                             <br>PheDev Team</p>
@@ -165,7 +287,7 @@
                     </div>
                 </div>
                 <div class="w3-third w3-container">
-                    <img src="images/HMJ IF.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/HMJ IF.jpg" alt="HMJ IF" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>HMJ IF</b>
                             <br>Personal</p>
@@ -183,7 +305,7 @@
             <!-- TWo Photo Grid-->
             <div class="w3-row-padding">
                 <div class="w3-third w3-container w3-margin-bottom">
-                    <img src="images/BP Paud Dikmas Sumbar.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/BP Paud Dikmas Sumbar.jpg" alt="BP Paud Dikmas Sumbar" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>BP Paud Dikmas Sumbar</b>
                             <br>CV. Mediatama Web Indonesia</p>
@@ -198,7 +320,7 @@
                     </div>
                 </div>
                 <div class="w3-third w3-container w3-margin-bottom">
-                    <img src="images/Diary Hemodialisis.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/Diary Hemodialisis.jpg" alt="Diary Hemodialisis" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>Diary Hemodialisis</b>
                             <br>CV. Mediatama Web Indonesia</p>
@@ -209,7 +331,7 @@
                     </div>
                 </div>
                 <div class="w3-third w3-container">
-                    <img src="images/Kasir Mediatama.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <img src="images/Kasir Mediatama.jpg" alt="Kasir Mediatama" onclick="onClick(this)" style="width:100%" class="w3-hover-opacity">
                     <div class="w3-container w3-white">
                         <p><b>Kasir Mediatama</b>
                             <br>CV. Mediatama Web Indonesia</p>
