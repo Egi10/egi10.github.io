@@ -1,0 +1,67 @@
+[
+    {
+      "name": "eFeeder: Smart Auto Feeder",
+      "description": "eFeeder is an automatic fish and shrimp feeding machine that provides a feeding solution for aquaculture.",
+      "technologies": [
+        "Kotlin Multiplatform",
+        "Compose Multiplatform",
+        "Kotlin Coroutines",
+        "Ktor",
+        "SQLDelight",
+        "Firebase"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_efishery/img_efeeder_playstore.png",
+      "projectUrl": "https://play.google.com/store/apps/details/eFeeder_Smart_Auto_Feeder?id=cybreed.efisheryprototype&hl=id"
+    },
+    {
+      "name": "Si Spesial",
+      "description": "SI SPESIAL is a system that serves as an information hub related to National Conservation Areas in Western Indonesia.",
+      "technologies": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Kotlin Coroutines",
+        "Ktor",
+        "Open Street Map",
+        "Firebase"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_efishery/img_si_spesial.png",
+      "projectUrl": null
+    },
+    {
+      "name": "Accurate POS",
+      "description": "POS application: manage customers & sales, employee management, all within Accurate's complete business ecosystem.",
+      "technologies": [
+        "Kotlin",
+        "Retrofit",
+        "Jetpack Compose",
+        "Kotlin Coroutines",
+        "Point of Sale (POS) Systems"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_efishery/img_accurate_pos_playstore.png",
+      "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.titan&hl=id"
+    },
+    {
+      "name": "Accurate Lite",
+      "description": "Accurate Lite is a user-friendly mobile business application for small and medium enterprises. Create invoices, check stock and prices, and view financial reports anytime, anywhere.",
+      "technologies": [
+        "Kotlin",
+        "Retrofit",
+        "RxJava",
+        "Android Jetpack"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_efishery/img_accurate_lite_playstore.png",
+      "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.alpha&hl=id"
+    },
+    {
+      "name": "METs-Mitigasi Evakuasi Tsunami",
+      "description": "METS - Tsunami Evacuation Mitigation app a helper application in the face of disaster tsunami evacuation (case study: Padang) that contains information about the location of vertical evacuation in this case building a decent shelter and other necessary information.",
+      "technologies": [
+        "Java",
+        "Retrofit",
+        "Google Map"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_efishery/img_mets_playstore.png",
+      "projectUrl": "https://play.google.com/store/apps/details?id=com.app.phedev.tsunamimitigasi&hl=id"
+    }
+  ]
+  

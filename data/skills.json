@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Kotlin",
+      "icon": "img_kotlin",
+      "link": "https://kotlinlang.org/"
+    },
+    {
+      "name": "Compose",
+      "icon": "img_jetpack_compose",
+      "link": "https://developer.android.com/jetpack/compose"
+    },
+    {
+      "name": "Firebase",
+      "icon": "img_firebase",
+      "link": "https://firebase.google.com/"
+    },
+    {
+      "name": "Java",
+      "icon": "img_java",
+      "link": "https://www.oracle.com/java/"
+    },
+    {
+      "name": "Flutter",
+      "icon": "img_flutter",
+      "link": "https://flutter.dev/"
+    },
+    {
+      "name": "Swift",
+      "icon": "img_swift",
+      "link": "https://developer.apple.com/swift/"
+    },
+    {
+      "name": "Git",
+      "icon": "img_git",
+      "link": "https://git-scm.com/"
+    }
+  ]
+  
