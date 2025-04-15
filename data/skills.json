@@ -1,37 +1,37 @@
 [
     {
       "name": "Kotlin",
-      "icon": "img_kotlin",
+      "icon": "https://egi10.github.io/storage/images/kotlin.png",
       "link": "https://kotlinlang.org/"
     },
     {
       "name": "Compose",
-      "icon": "img_jetpack_compose",
+      "icon": "https://egi10.github.io/storage/images/compose-multiplatform.png",
       "link": "https://developer.android.com/jetpack/compose"
     },
     {
       "name": "Firebase",
-      "icon": "img_firebase",
+      "icon": "https://egi10.github.io/storage/images/firebase.png",
       "link": "https://firebase.google.com/"
     },
     {
       "name": "Java",
-      "icon": "img_java",
+      "icon": "https://egi10.github.io/storage/images/java.png",
       "link": "https://www.oracle.com/java/"
     },
     {
       "name": "Flutter",
-      "icon": "img_flutter",
+      "icon": "https://egi10.github.io/storage/images/flutter.png",
       "link": "https://flutter.dev/"
     },
     {
       "name": "Swift",
-      "icon": "img_swift",
+      "icon": "https://egi10.github.io/storage/images/swift.png",
       "link": "https://developer.apple.com/swift/"
     },
     {
       "name": "Git",
-      "icon": "img_git",
+      "icon": "https://egi10.github.io/storage/images/git.png",
       "link": "https://git-scm.com/"
     }
   ]
