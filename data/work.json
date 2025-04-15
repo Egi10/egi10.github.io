@@ -10,7 +10,7 @@
         "SQLDelight",
         "Firebase"
       ],
-      "image": "https://egi10.github.io/storage/images/img_efishery/img_efeeder_playstore.png",
+      "image": "https://egi10.github.io/storage/images/img_efeeder_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details/eFeeder_Smart_Auto_Feeder?id=cybreed.efisheryprototype&hl=id"
     },
     {
@@ -24,7 +24,7 @@
         "Open Street Map",
         "Firebase"
       ],
-      "image": "https://egi10.github.io/storage/images/img_efishery/img_si_spesial.png",
+      "image": "https://egi10.github.io/storage/images/img_si_spesial.png",
       "projectUrl": null
     },
     {
@@ -37,7 +37,7 @@
         "Kotlin Coroutines",
         "Point of Sale (POS) Systems"
       ],
-      "image": "https://egi10.github.io/storage/images/img_efishery/img_accurate_pos_playstore.png",
+      "image": "https://egi10.github.io/storage/images/img_accurate_pos_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.titan&hl=id"
     },
     {
@@ -49,7 +49,7 @@
         "RxJava",
         "Android Jetpack"
       ],
-      "image": "https://egi10.github.io/storage/images/img_efishery/img_accurate_lite_playstore.png",
+      "image": "https://egi10.github.io/storage/images/img_accurate_lite_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.alpha&hl=id"
     },
     {
@@ -60,7 +60,7 @@
         "Retrofit",
         "Google Map"
       ],
-      "image": "https://egi10.github.io/storage/images/img_efishery/img_mets_playstore.png",
+      "image": "https://egi10.github.io/storage/images/img_mets_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.app.phedev.tsunamimitigasi&hl=id"
     }
   ]
