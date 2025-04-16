@@ -15,17 +15,17 @@
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/julsapargi-nursam/",
-        "icon": "ic_linkedin"
+        "icon": "https://egi10.github.io/storage/images/linkedin-svgrepo-com.svg"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@julsapargi_nursam",
-        "icon": "ic_medium"
+        "icon": "https://egi10.github.io/storage/images/medium-svgrepo-com.svg"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/Egi10",
-        "icon": "ic_github"
+        "icon": "https://egi10.github.io/storage/images/github-svgrepo-com.svg"
       }
     ]
   }
