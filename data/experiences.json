@@ -5,13 +5,16 @@
       "startDate": "May 2022",
       "endDate": "Mar 2025",
       "descriptions": [
-        "Optimized eFeederApp: Refactored the codebase from Groovy to KotlinDSL, enhancing efficiency and development consistency.",
-        "Streamlined Dependency Management: Migrated from Dagger2 to Hilt for simpler code and reduced boilerplate.",
-        "Enabled Kotlin Multiplatform: Implemented Kotlin Multiplatform for eFeederApp across Android and iOS, enabling code sharing and reducing development time, with up to 70% code reuse between platforms.",
-        "Expanded Skillset to iOS: Contributed to iOS project setup and integrated Kotlin Multiplatform, developing UI with SwiftUI.",
-        "Conducted UI Research and Migration: Researched and migrated UI from XML to Compose Multiplatform, while transitioning the design system from OneFish v1 to OneFish v2.",
-        "Continuously Improved Code Quality: Regularly refactored and optimized code for enhanced performance and maintainability."
-      ]
+        "Migrated eFeederApp's Gradle build configuration from Groovy to Kotlin DSL to enhance readability, consistency, and maintainability.",
+        "Migrated from Dagger2 to Hilt to streamline dependency injection and reduce boilerplate code.",
+        "Implemented a modular architecture based on MVVM with Kotlin Flow to support Reactive Programming and long-term maintainability.",
+        "Implemented Kotlin Multiplatform for eFeederApp across Android and iOS, enabling 70% shared code between platforms, accelerating development, and improving team efficiency.",
+        "Integrated Kotlin Multiplatform into the iOS project, including connecting use cases from shared code to the ViewModel on the iOS side, and supporting UI development using SwiftUI.",
+        "Migrated UI from XML to Compose Multiplatform and transitioned the design system from OneFish v1 to v2.",
+        "Increased unit test coverage to 64% to improve reliability and maintainability.",
+        "Worked in a cross-functional team using Agile/Scrum methodologies, actively participating in sprint planning, daily stand-ups, and retrospectives.",
+        "Configured the Android pipeline to run Kotlin Multiplatform shared code unit tests as part of the CI/CD process."
+      ]      
     },
     {
       "companyImage": "https://egi10.github.io/storage/images/img_accurate.jpeg",
@@ -19,12 +22,12 @@
       "startDate": "Jan 2021",
       "endDate": "Apr 2022",
       "descriptions": [
-        "Led a team of 3 Android developers in delivering innovative features for our POS app.",
-        "Architected and implemented modularization, significantly enhancing app structure and maintainability.",
-        "Modernized the user interface by transitioning from XML to Jetpack Compose.",
-        "Optimized codebase through refactoring and performance improvements.",
-        "Ensured timely project delivery and adherence to coding standards."
-      ]
+        "Led a team of 3 Android engineers in building features for the Point of Sale (POS) system.",
+        "Developed sprint plans, technical breakdowns, and task assignments in collaboration with the product manager.",
+        "Collaborated with QA and product teams for bug tracking and resolution.",
+        "Designed a modular architecture based on MVVM and Clean Architecture, and implemented Kotlin Flow and RxJava for efficient reactive data flows.",
+        "Initiated the migration of UI from XML to Jetpack Compose, successfully reducing UI code complexity by 30% through a declarative approach, supporting faster development and a more scalable architecture."
+      ]      
     },
     {
       "companyImage": "https://egi10.github.io/storage/images/img_wowbid.jpeg",
@@ -32,9 +35,11 @@
       "startDate": "Nov 2019",
       "endDate": "Dec 2020",
       "descriptions": [
-        "Develop Android applications (WOWBID) using Kotlin, implementing clean architecture and MVVM concepts.",
-        "Assist in conducting research on Android app development."
-      ]
+        "Contributed to the maintenance and further development of key features for the WOWBID e-commerce application, focusing on enhancing system scalability and reliability.",
+        "Maintained architectural consistency through the continuous application of MVVM and Clean Architecture, ensuring more maintainable code quality.",
+        "Continued and optimized the integration of libraries such as Retrofit and Koin to support more efficient network management and dependency injection.",
+        "Participated in feature development using Agile/Scrum methodologies with product and QA teams."
+      ]      
     },
     {
       "companyImage": "https://egi10.github.io/storage/images/img_mediatama.png",
@@ -42,9 +47,9 @@
       "startDate": "Mar 2019",
       "endDate": "Jul 2019",
       "descriptions": [
-        "Create an Android App (Hemodialysis Diary, BP Paud Dismas Sumbar, Kasir Mediatama) using Kotlin with the MVP concept.",
-        "Conduct tutoring for students who take private tutoring classes."
-      ]
+        "Developed Android applications (Hemodialysis Diary, BP Paud Dismas Sumbar, Kasir Mediatama) from the ground up to release, using Kotlin and implementing MVP architecture to ensure organized and maintainable code structure.",
+        "Provided private mentoring sessions on Android development fundamentals."
+      ]      
     },
     {
       "companyImage": "https://egi10.github.io/storage/images/img_mitrafin.png",
@@ -52,10 +57,10 @@
       "startDate": "Mar 2018",
       "endDate": "Jan 2019",
       "descriptions": [
-        "Rewrote Android apps APF Collector and BSM Collector from Java to Kotlin, implementing the MVP architecture.",
-        "Developed Android app BSM Surveyor using Kotlin and MVP architecture.",
-        "Maintained Android app Buana Multidana CRM App using Java."
-      ]
+        "Rewrote Android applications (APF Collector, BSM Collector) from Java to Kotlin, while implementing MVP architecture for a more organized and maintainable code structure.",
+        "Developed the BSM Surveyor application from the ground up to release, using Kotlin and implementing MVP architecture to ensure organized and maintainable code structure.",
+        "Maintained the Java-based Buana Multidana CRM application, including bug fixes and minor feature adjustments as needed."
+      ]      
     }
   ]
   
