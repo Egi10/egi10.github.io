@@ -8,7 +8,8 @@
         "Kotlin Coroutines",
         "Ktor",
         "SQLDelight",
-        "Firebase"
+        "Firebase",
+        "MVVM"
       ],
       "image": "https://egi10.github.io/storage/images/img_efeeder_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details/eFeeder_Smart_Auto_Feeder?id=cybreed.efisheryprototype&hl=id"
@@ -22,7 +23,8 @@
         "Kotlin Coroutines",
         "Ktor",
         "Open Street Map",
-        "Firebase"
+        "Firebase",
+        "MVVM"
       ],
       "image": "https://egi10.github.io/storage/images/img_si_spesial.png",
       "projectUrl": null
@@ -35,7 +37,8 @@
         "Retrofit",
         "Jetpack Compose",
         "Kotlin Coroutines",
-        "Point of Sale (POS) Systems"
+        "Point of Sale (POS) Systems",
+        "MVVM"
       ],
       "image": "https://egi10.github.io/storage/images/img_accurate_pos_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.titan&hl=id"
@@ -47,10 +50,25 @@
         "Kotlin",
         "Retrofit",
         "RxJava",
-        "Android Jetpack"
+        "Android Jetpack",
+        "MVVM"
       ],
       "image": "https://egi10.github.io/storage/images/img_accurate_lite_playstore.png",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.alpha&hl=id"
+    },
+    {
+      "name": "Pesisiran",
+      "description": "Pesisiran (Position Tracking and Reporting) is a support tool designed for PPA users, Juru (field officers), Observers, and the Water Resources Agency of West Sumatra Province. It enables users to report activities related to Irrigation Areas based on their assigned regions. Specifically for activity reporting, PPA users can input and store data on their Android smartphones even without an internet connection. Once a connection is available, the data automatically synchronizes with the server. The application also features real-time location tracking for registered PPA users, either individually or grouped by their respective Irrigation Areas.",
+      "technologies": [
+        "Kotlin",
+        "Retrofit",
+        "Google Map",
+        "Kotlin Coroutines",
+        "MVVM",
+        "FIrebase"
+      ],
+      "image": "https://egi10.github.io/storage/images/img_pesisiran.png",
+      "projectUrl": null
     },
     {
       "name": "METs-Mitigasi Evakuasi Tsunami",
