@@ -1,0 +1,31 @@
+{
+  "imageProfile": "https://egi10.github.io/storage/images/img_profile.jpeg",
+  "imageAboutMe": "https://egi10.github.io/storage/images/img_about_me.jpg",
+  "fullName": "Julsapargi Nursam",
+  "email": "julsaparginursam@gmail.com",
+  "phoneNumber": "+62 82382127489",
+  "address": "Sumatera Barat, Indonesia",
+  "summary": "Saya seorang Software Engineer Mobile yang berspesialisasi dalam ekosistem Android dan Kotlin Multiplatform (KMP), berfokus pada pengembangan aplikasi high-quality, user-centric, cepat, intuitif, dan scalable. Bermodalkan pengalaman 5+ tahun, saya sangat passionate meracik digital experience yang seamless melalui implementasi clean architecture, code yang efisien, dan best practices software engineering terkini. Saat ini saya juga tengah memperluas tech stack saya ke arah pengembangan iOS menggunakan Swift dan SwiftUI, demi mempertajam kompetensi engineering merilis cross-platform app maupun solusi native murni.",
+  "aboutMe": [
+    "Saya seorang Mobile App Developer dengan fokus keahlian di platform Android, mengantongi lebih dari 5 tahun track record dalam mendevelop app yang user-centric dan berkualitas tinggi. Sejak 2018, saya konsisten merancang solusi mobile berskala besar (scalable) yang diusung oleh pattern operasional industri terkini.",
+    "Bermula tahun 2023, saya memperdalam spesialisasi ke ranah Kotlin Multiplatform (KMP) dan Compose Multiplatform. Implementasi KMP memungkinkan saya mendeliver code-sharing yang sangat mulus tanpa gap isu signifikan antara native build Android dan iOS secara efisien. Secara fundamental, saya fanatik pada kaidah penulisan code yang clean, terorganisir dengan rapi, guna mampu menjalin user experience (UX) di tingkat teratas.",
+    "Sekarang saya juga masih terus mengasah ritme kapabilitas coding di lini core perihal Swift maupun SwiftUI untuk mengarsiteki sistem platform murni dari Apple. Dipersenjatai tekad dan rasa continuous learning kuat, saya begitu antusias mengejar dinamika terdepan teknologi inovatif mobile untuk mendaratkan jembatan kepraktisan digital masa depan langsung di tangan telapak jemari khalayak."
+  ],
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/julsapargi-nursam/",
+      "icon": "https://egi10.github.io/storage/images/linkedin-svgrepo-com.png"
+    },
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@julsapargi_nursam",
+      "icon": "https://egi10.github.io/storage/images/medium-svgrepo-com.png"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Egi10",
+      "icon": "https://egi10.github.io/storage/images/github-svgrepo-com.png"
+    }
+  ]
+}

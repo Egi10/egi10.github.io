@@ -1,0 +1,84 @@
+[
+  {
+    "name": "eFeeder: Smart Auto Feeder",
+    "description": "Mesin penebar pakan otomatis penunjang industri budidaya perikanan yang menghadirkan end-to-end smart feeding solution, menunjang produktivitas terintegrasi bagi para petambak harian.",
+    "technologies": [
+      "Kotlin Multiplatform",
+      "Compose Multiplatform",
+      "Kotlin Coroutines",
+      "Ktor",
+      "SQLDelight",
+      "Firebase",
+      "MVVM"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_efeeder_playstore.png",
+    "projectUrl": "https://play.google.com/store/apps/details/eFeeder_Smart_Auto_Feeder?id=cybreed.efisheryprototype&hl=id"
+  },
+  {
+    "name": "Si Spesial",
+    "description": "Platform sistem digital berpusat yang berperan eksklusif sebagai sentra informasi dan koordinasi data vital tingkat Kawasan Konservasi Nasional zona regional wilayah Indonesia bagian Barat.",
+    "technologies": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Kotlin Coroutines",
+      "Ktor",
+      "Open Street Map",
+      "Firebase",
+      "MVVM"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_si_spesial.png",
+    "projectUrl": null
+  },
+  {
+    "name": "Accurate POS",
+    "description": "Aplikasi Kasir (POS) komprehensif untuk managing transaksi pelanggan terpusat, pencatatan historis rincian, hingga manajemen profil absensi karyawan; data terhubungkan realtime ke backend cloud ekosistem bisnis Accurate.",
+    "technologies": [
+      "Kotlin",
+      "Retrofit",
+      "Jetpack Compose",
+      "Kotlin Coroutines",
+      "Point of Sale (POS) Systems",
+      "MVVM"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_accurate_pos_playstore.png",
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.titan&hl=id"
+  },
+  {
+    "name": "Accurate Lite",
+    "description": "Aplikasi mobile bisnis user-friendly yang dikembangkan secara spesifik untuk segmen user level UMKM. Menunjang alur rilis kasir invoice instan, monitor ketersediaan varian stok / pembaruan harga per batch, sampai sinkronisasi telusur laporan keuangan mingguan dan bulanan pada aplikasi smartphone.",
+    "technologies": [
+      "Kotlin",
+      "Retrofit",
+      "RxJava",
+      "Android Jetpack",
+      "MVVM"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_accurate_lite_playstore.png",
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.cpssoft.mobile.alpha&hl=id"
+  },
+  {
+    "name": "Pesisiran",
+    "description": "Aplikasi operasional lapangan (Position Tracking & Reporting) bagi instansi tim fungsional PSDA Sumatera Barat seputar tracking log site area irigasi. Dibangun pure memanfaatkan architecture pattern offline-first murni—data rincian aman terekam ke storage memory lokal selama user terjebak luar batas sinyal, disinkronisasikan beruntun (seamless sync) selang terkoneksi online tiba. Turut menyediakan live-tracking pemantauan GPS mobilitas pekerja irigasi.",
+    "technologies": [
+      "Kotlin",
+      "Retrofit",
+      "Google Map",
+      "Kotlin Coroutines",
+      "MVVM",
+      "FIrebase"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_pesisiran.png",
+    "projectUrl": null
+  },
+  {
+    "name": "METs-Mitigasi Evakuasi Tsunami",
+    "description": "Aplikasi helper berbasis mitigatif krisis penanganan darurat didesain bagi navigasi kasus prioritas sasaran pasca guncangan tsunami di geografis wilayah rentan Kota Padang. Memiliki algoritma modul rute memandu navigasi warga mencari vertical evacuation strategis terdekat secara informatif dan memadai menekan jumlah resiko insiden letak perlindungan pesisir.",
+    "technologies": [
+      "Java",
+      "Retrofit",
+      "Google Map"
+    ],
+    "image": "https://egi10.github.io/storage/images/img_mets_playstore.png",
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.app.phedev.tsunamimitigasi&hl=id"
+  }
+]

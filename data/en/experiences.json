@@ -1,0 +1,62 @@
+[
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_efishery.png",
+    "position": "Mobile Engineer - Android",
+    "startDate": "May 2022",
+    "endDate": "Mar 2025",
+    "descriptions": [
+      "Architected Kotlin Multiplatform (KMP) integration for eFeederApp, consolidating 70% of business logic to accelerate cross-platform feature delivery and eliminate redundant engineering effort.",
+      "Drove UI modernization strategy by transitioning from legacy XML to Compose Multiplatform, establishing a unified design system that drastically accelerated frontend iteration.",
+      "Designed a resilient cross-platform data persistence layer using SQLDelight, guaranteeing seamless offline-first operation and data integrity in remote environments.",
+      "Centralized API networking and background synchronization within the shared KMP module via Ktor Client, resolving complex state inconsistencies across platforms.",
+      "Overhauled project infrastructure by adopting Hilt for dependency injection and Kotlin DSL for build scripts, mitigating technical debt and streamlining developer onboarding.",
+      "Established rigorous quality standards by scaling shared codebase test coverage to 64% utilizing Kotlin Test, MockK, and Turbine, decisively lowering production incident rates.",
+      "Orchestrated end-to-end feature lifecycles alongside product stakeholders, delivering high-velocity, mission-critical releases without compromising stability."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_accurate.jpeg",
+    "position": "Senior Mobile Engineer - Android",
+    "startDate": "Jan 2021",
+    "endDate": "Apr 2022",
+    "descriptions": [
+      "Directed technical execution for a 3-engineer Android squad, shipping core Accurate POS features while sustaining rigorous engineering standards and sprint velocity.",
+      "Architected a modular MVVM application leveraging Clean Architecture, decoupling core domain logic to ensure systemic testability and long-term scalability.",
+      "Pioneered the transition to Jetpack Compose, deprecating fragile XML layouts in favor of declarative UI to significantly reduce frontend development cycles.",
+      "Simplified complex dependency graphs by integrating Dagger Hilt, eliminating error-prone boilerplate and enhancing overall system readability.",
+      "Engineered seamless client-server communications by consuming complex REST APIs, optimizing payload handling for a highly responsive point-of-sale experience."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_wowbid.jpeg",
+    "position": "Android Developer",
+    "startDate": "Nov 2019",
+    "endDate": "Dec 2020",
+    "descriptions": [
+      "Translated complex design wireframes into pixel-perfect, highly responsive Android XML layouts, ensuring a premium e-commerce user experience.",
+      "Profiled application memory and resolved critical runtime bottlenecks, delivering a markedly more fluid and stable mobile shopping interface.",
+      "Integrated secured consumer-facing REST APIs, ensuring reliable transaction flows and rapid rollout of revenue-driving features."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_mediatama.png",
+    "position": "Android Developer",
+    "startDate": "Mar 2019",
+    "endDate": "Jul 2019",
+    "descriptions": [
+      "Engineered and launched three MVP-based Android mobile applications from the ground up, directing the entire lifecycle through to Google Play Store publication.",
+      "Mentored junior engineering cohorts via hands-on architectural code reviews, embedding fundamental Android development and clean code practices."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_mitrafin.png",
+    "position": "Staff IT - Development (Android Developers)",
+    "startDate": "Mar 2018",
+    "endDate": "Jan 2019",
+    "descriptions": [
+      "Championed the modernization of legacy enterprise systems by migrating Java codebases to Kotlin and enforcing MVP architectural patterns.",
+      "Designed and shipped the BSM Surveyor application from inception, provisioning field agents with a highly reliable and performant mobile data collection tool.",
+      "Stabilized business-critical Java CRM applications by resolving deep technical debt, ensuring uninterrupted daily operations alongside continuous feature delivery."
+    ]
+  }
+]

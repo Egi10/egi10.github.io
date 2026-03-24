@@ -1,0 +1,20 @@
+[
+    {
+      "message": "Egi is a persistent problem-solver. He always pays close attention to detail when designing systems, which leads to excellent results. Highly recommended Mobile Engineer.",
+      "name": "Wildan Angga Rahman",
+      "role": "Mobile Engineer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7rJh13ruHHHOmrbO2mKI7j8cy-lcJ3HTrQ&s"
+    },
+    {
+      "message": "Julsapargi has a great instinct for logical roles; he can perfectly balance between feeling and logic to connect with my design, delivering smooth interactions through his code.",
+      "name": "Permana Handiyuda",
+      "role": "Interaction Designer II",
+      "image": "https://framerusercontent.com/images/APE9IHS2cgALQ3CPofVr9lmqnc.png?scale-down-to=512"
+    },
+    {
+      "message": "Egi is highly dedicated to mobile engineering. He tackles every challenge seriously, and his work—from the KMP refactor to Jetpack Compose—has modernized our codebase, minimizing errors and enabling us to deliver features flawlessly.",
+      "name": "Mohamad Damba Putrabangga",
+      "role": "Senior Engineering Manager",
+      "image": "https://cdn.projects.co.id/upload/usr727411/20150416552f700ea2cb8.jpg"
+    }
+  ]

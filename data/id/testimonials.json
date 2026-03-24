@@ -1,0 +1,20 @@
+[
+  {
+    "message": "Egi merupakan seorang problem-solver yang tangguh dan gigih. Ia rutin menelaah hal-hal detail ketika mendesain sistem sehingga result akhirnya konsisten memuaskan. Sangat merekomendasikan Egi sebagai Mobile Engineer.",
+    "name": "Wildan Angga Rahman",
+    "role": "Mobile Engineer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7rJh13ruHHHOmrbO2mKI7j8cy-lcJ3HTrQ&s"
+  },
+  {
+    "message": "Julsapargi punya sense logic technical yang sangat solid; dia hebat menyeimbangkan antara feeling desain visual dan logika algoritma, berhasil menterjemahkan desain rancangan interaktif saya agar sukses tereksekusi menjadi interaksi code platform yang sangat seamless bagi end-user.",
+    "name": "Permana Handiyuda",
+    "role": "Interaction Designer II",
+    "image": "https://framerusercontent.com/images/APE9IHS2cgALQ3CPofVr9lmqnc.png?scale-down-to=512"
+  },
+  {
+    "message": "Dedikasi Egi di industri mobile engineering sangat nyata. Ia meng-handle tantangan problem teknis dengan matang; impact besarnya mencakup project refactor codebase KMP masif sampai adopsi modern via Jetpack Compose agar fondasi kami kokoh minim error. Kini rilis fitur jadi jauh lebih cepat (bug-free delivery) untuk menumbuhkan performa operasional tim engineer.",
+    "name": "Mohamad Damba Putrabangga",
+    "role": "Senior Engineering Manager",
+    "image": "https://cdn.projects.co.id/upload/usr727411/20150416552f700ea2cb8.jpg"
+  }
+]

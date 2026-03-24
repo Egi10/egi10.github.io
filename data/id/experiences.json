@@ -1,0 +1,62 @@
+[
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_efishery.png",
+    "position": "Mobile Engineer - Android",
+    "startDate": "May 2022",
+    "endDate": "Mar 2025",
+    "descriptions": [
+      "Merancang arsitektur integrasi Kotlin Multiplatform (KMP) pada eFeederApp, berbagi pakai 70% business logic untuk mempercepat delivery fitur lintas platform dan memangkas effort engineering yang repetitif.",
+      "Memimpin strategi modernisasi UI dari XML usang ke Compose Multiplatform, serta menetapkan design system terpadu yang secara drastis mengeskalasi iterasi frontend.",
+      "Mendesain layer data persistence lintas platform yang tangguh menggunakan SQLDelight, menjamin kapabilitas offline-first yang mulus dan integritas data di area terpencil minim koneksi.",
+      "Memusatkan layer API networking dan background sync di dalam shared module KMP via Ktor Client, sukses menuntaskan isu state inconsistency yang rumit antar platform.",
+      "Merombak infrastruktur project dengan mengadopsi Hilt untuk dependency injection dan Kotlin DSL pada build script, secara signifikan menebas tech debt dan memuluskan onboarding bagi developer baru.",
+      "Meningkatkan standar kualitas dengan mendorong test coverage pada shared codebase hingga 64% menggunakan Kotlin Test, MockK, dan Turbine, yang terbukti vital menekan insiden fatal di production.",
+      "Mengorkestrasi end-to-end cycle pengembangan fitur bersama para stakeholder product, selalu menjamin kecepatan high-velocity rilis tanpa sedikitpun mengorbankan stabilitas."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_accurate.jpeg",
+    "position": "Senior Mobile Engineer - Android",
+    "startDate": "Jan 2021",
+    "endDate": "Apr 2022",
+    "descriptions": [
+      "Mengarahkan eksekusi teknis untuk sebuah skuad beranggotakan 3 Android Engineer, konsisten nge-ship susunan fitur utama Accurate POS sembari menjaga standar engineering dan laju sprint velocity.",
+      "Merancang arsitektur aplikasi modular yang solid via pendalaman fondasi Clean Architecture & MVVM, sepenuhnya melerai bagian core domain logic untuk menjamin kapabilitas automated-testing sekaligus ruang scalable jangka lumayan panjang.",
+      "Memelopori pergerakan migrasi menuju ke Jetpack Compose, meninggalkan integrasi berat konfigurasi basis XML UI demi rancangan set model declarative yang secara dramatis meringkas waktu antrean siklus antarmuka UI platform.",
+      "Menyederhanakan struktur grafis dependency graph sistem yang saling berbelit padat dengan cara menyematkan Dagger Hilt di tubuh project, berhasil secara elegan melenyapkan penumpukan gubahan boilerplate logic code rawan jeblos dan sukses merepresi lonjakan readability seluruh kerangka tim developer lintas faksi.",
+      "Duduk merancang alur pipeline komunikasi mulus client-server lewat serbuan sinkronisasi konsumsi dari REST API bervolume jumbo dan rumit di lapangan, seraya mengeksplor racikan penanganan optimasinya di level payload request transfer ke Point of Sale yang dituntut mutlak responsif secepat laju kilat kasir fisik."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_wowbid.jpeg",
+    "position": "Android Developer",
+    "startDate": "Nov 2019",
+    "endDate": "Dec 2020",
+    "descriptions": [
+      "Menerjemahkan kerumitan desain wireframe ke bentuk layout XML Android yang interaktif seraya mengejar kualitas standard pixel-perfect, sepenuhnya menyumbangkan effort user experience eksklusif brand belanja e-commerce.",
+      "Mengeksekusi penyisiran titik temu asal mula memory bottleneck via code-profiling mendalam secara nyata (runtime tracking), memecahkan dan berhasil menerjemahkan problem krusial bug untuk mendeliver gaya stabilitas berselancar lapak online termulus.",
+      "Mencaplok dan mengintegrasikan ekosistem rute sambungan REST API krusial dari pengguna awam, sukses memagari rentetan konversi data log rute alur lalu-lintas finansial online bersama sigapnya tim percepat push production serangkaian pilar vital pendongkrak pundi revenue-driving pelengkap platform startup retail tsb."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_mediatama.png",
+    "position": "Android Developer",
+    "startDate": "Mar 2019",
+    "endDate": "Jul 2019",
+    "descriptions": [
+      "Membangun serta sukses meluncurkan mandiri tiga ekor modul aplikasi Android yang diarsiteki kerangka baku operasional ala model fundamental MVP sedari titik mula goresan coding base scratch ke kancah marketplace rilil publik menembus Google Play Store platform Android.",
+      "Melibatkan diri sebagai tech mentor ahli dalam gelaran code-review kolega setingkat tim lini teknisi junior untuk transfer kaidah penyikapan best implementation bersih dan clean code framework pada fundamental alur seni native Android app."
+    ]
+  },
+  {
+    "companyImage": "https://egi10.github.io/storage/images/img_mitrafin.png",
+    "position": "Staff IT - Development (Android Developers)",
+    "startDate": "Mar 2018",
+    "endDate": "Jan 2019",
+    "descriptions": [
+      "Memelopori langkah memodernisasi piranti tumpukan stack legacy framework korporasi melalui strategi mutasi penuh pada bahasa peninggalan asli Java merujuk pada standar baru Kotlin dan arsitektur kokoh pattern baku standar dari basis gubahan MVP termodular.",
+      "Mendesain arsitektur rancang bangun serta meramu full perakitan launch awal operasional tools rilis gawai survey lapangan terintegrasi ala seri instrumen canggih milik internal enterprise di lapangan, menghasilkan senjata mobilitas pencatat handal BSM Surveyor apps.",
+      "Menangani pengembalian vital operasional daily-flow ke kondisi paling optimal untuk Java platform CRM berbobot super business-critical perusahaan dari intipan serangan tumpukan kusam technical debt mematikan, menjamin rotasi kestabilan sirkulasi beroperasi tanpa tumpang tindih jeda harian dengan komitmen terus menjamah update fitur di laju ritme pipeline tim."
+    ]
+  }
+]

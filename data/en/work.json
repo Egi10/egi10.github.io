@@ -72,7 +72,7 @@
     },
     {
       "name": "METs-Mitigasi Evakuasi Tsunami",
-      "description": "METS - Tsunami Evacuation Mitigation app a helper application in the face of disaster tsunami evacuation (case study: Padang) that contains information about the location of vertical evacuation in this case building a decent shelter and other necessary information.",
+      "description": "METS - Tsunami Evacuation Mitigation is a helper application designed for disaster tsunami evacuations (case study: Padang). It contains critical information about the location of vertical evacuation structures—specifically, adequate shelter buildings—and other necessary emergency details.",
       "technologies": [
         "Java",
         "Retrofit",
@@ -82,4 +82,3 @@
       "projectUrl": "https://play.google.com/store/apps/details?id=com.app.phedev.tsunamimitigasi&hl=id"
     }
   ]
-  
